@@ -1,0 +1,2 @@
+# Classify_Model
+处理的内容是经典的cifar数据集，datafile将其中的内容以图片的形式保存在文件夹中，dataloader是唯一自己写的部分，网络和训练部分都是抄的
